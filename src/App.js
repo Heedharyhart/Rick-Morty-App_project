@@ -62,7 +62,7 @@ const Home = () => {
             setGender={setGender}
             setSpecies={setSpecies}
           />
-          <div className="col-lg-8 col-12">
+          <div className="col-lg-8">
             <div className="row">
               <Cards page="/" results={results} />
             </div>

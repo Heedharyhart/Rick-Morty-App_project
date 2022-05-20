@@ -1,3 +1,6 @@
+Project Live Link: https://rickmort.netlify.app/
+
+
 Packages installation steps
 npx create-react-app .
 
